@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DownloadJson</string>
+    <string name="get_weather">Get weather</string>
+    <string name="your_city">Input your city</string>
+</resources>
